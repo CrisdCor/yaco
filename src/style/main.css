@@ -1,0 +1,18 @@
+:root {
+    --black: #222221;
+    --white: #ffffff;
+    --red: #a21c26;
+    --gray: #fafbfc;
+    --yellow: #e5c328;
+    --light-blue: #dbe8f0;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
